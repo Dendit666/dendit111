@@ -1,0 +1,15 @@
+	.btn
+        {
+            width: 40px;
+            margin: 5px;
+    }
+	
+    .form-control
+        {
+            width: 310px;
+            margin: 5px;
+	}
+	
+	.container {
+		position: center;
+	}
